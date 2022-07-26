@@ -1,7 +1,7 @@
 {
   "name": "polkaate",
   "version": "1.0.0",
-  "description": "This project can be used to query Westend chain",
+  "description": "This project can be used to query kusama chain",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
