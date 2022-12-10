@@ -1,6 +1,6 @@
 {
-  "name": "polkaate",
-  "version": "0.0.2",
+  "name": "query_kusama",
+  "version": "0.0.3",
   "description": "This project can be used to query kusama chain",
   "main": "dist/index.js",
   "scripts": {
